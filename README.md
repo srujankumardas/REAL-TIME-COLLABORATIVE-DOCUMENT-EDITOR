@@ -36,3 +36,7 @@ Making simple documentation for personal or team use
 Through this task, I learned how to work with external libraries like Quill in a React project. I also improved my skills in building responsive designs and handling component-based layouts. It was a good experience to combine tools and frameworks to build something useful and interactive.
 
 Overall, this task helped me understand how real-world text editors work and gave me hands-on experience in web development using modern tools. I enjoyed working on it and learned a lot throughout the process.
+
+output-
+
+![Image](https://github.com/user-attachments/assets/91e2c43a-7a4b-4694-8fe8-442de8b7312e)
